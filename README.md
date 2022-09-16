@@ -35,3 +35,9 @@ Execute no `PowerShell`:
 ```
 npm i phosphor-react
 ```
+
+## Radix UI - (Dialogs)
+Execute no `Power Shell`
+```
+npm i @radix-ui/react-dialog
+```
