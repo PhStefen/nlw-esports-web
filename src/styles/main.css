@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+[data-placeholder]{
+    @apply text-zinc-500
+}
+
+[data-highlighted]{
+    @apply text-white bg-zinc-600
+}
