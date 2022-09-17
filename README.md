@@ -37,6 +37,7 @@ npm i phosphor-react
 ```
 
 ## Radix UI - Components Primitivos Acessíveis
+### Instalação
 Execute no `Power Shell`
 ```
 npm i @radix-ui/react-dialog
@@ -46,6 +47,7 @@ npm i @radix-ui/react-toggle-group
 ```
 
 ## Axios - Requisições
+### Instalação
 Execute no `Power Shell`
 ```
 npm i axios
