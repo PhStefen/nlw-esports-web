@@ -96,7 +96,7 @@ export function CreateAdModal() {
                             </div>
 
                             <div className='flex flex-col gap-2'>
-                                <label htmlFor="discord">Joga há quantos anos?</label>
+                                <label htmlFor="discord">Seu discord    </label>
                                 <Input
                                     id='discord'
                                     name='discord'

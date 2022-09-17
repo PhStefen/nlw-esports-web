@@ -36,7 +36,7 @@ Execute no `PowerShell`:
 npm i phosphor-react
 ```
 
-## Radix UI - Formulários Estilizáveis
+## Radix UI - Components Primitivos Acessíveis
 Execute no `Power Shell`
 ```
 npm i @radix-ui/react-dialog
